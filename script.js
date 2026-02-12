@@ -38,10 +38,9 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const typingText = document.querySelector('.typing-text');
 const roles = [
     'AI Engineer',
-    'iOS Developer',
+    'Senior iOS Developer',
     'ML Engineer',
-    'Full Stack Developer',
-    'Problem Solver'
+    'Full Stack Developer'
 ];
 
 let roleIndex = 0;
